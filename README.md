@@ -18,3 +18,10 @@ Missing values in the `RemoteWork` column were imputed using the most frequent c
 - Jupyter Notebook  
 
 This project showcases practical data preparation skills for real-world analytics workflows.
+
+## Results
+
+- Identified and confirmed zero duplicate records  
+- Detected missing values across multiple survey fields  
+- Imputed 10,631 missing RemoteWork responses using the majority category  
+- Observed a right-skewed compensation distribution with a median salary of $65,000  
